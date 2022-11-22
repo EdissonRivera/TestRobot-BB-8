@@ -32,3 +32,7 @@ git clone https://github.com/EdissonRivera/TestRobot-BB-8.git
 - Paso3: Abra el proyecto
 
 ![Untitled](README/Untitled%202.png)
+
+### DOCUMENTACION DEL PROYECTO
+
+[Notion documentación](https://cumbersome-glazer-727.notion.site/Test-ROBOT-BB-8-e598261f3d7f4daab1cd5818dcc2d9da)
